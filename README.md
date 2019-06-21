@@ -34,7 +34,6 @@
 [PenTesters Framework](https://github.com/trustedsec/ptf)  
 [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)  
 [SecLists](https://github.com/danielmiessler/SecLists/)  
-
 [AD CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/)  
 [OWA Spraying Toolkit](https://github.com/byt3bl33d3r/SprayingToolkit )  
 [PowerShell Unicorn](https://github.com/trustedsec/unicorn)  
@@ -54,11 +53,8 @@
 [Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)  
 [NMAP Scripts](https://nmap.org/nsedoc/index.html)  
 [PHP Reverse shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)  
-
-
 [John the ripper](https://www.openwall.com/john/)  
 [Hash examples](https://hashcat.net/wiki/doku.php?id=example_hashes)  
-
 [Detection Toolkit Lab](https://github.com/clong/DetectionLab)
 
 
